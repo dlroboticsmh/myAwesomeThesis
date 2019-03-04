@@ -1,0 +1,20 @@
+﻿Bitte etwa 10 - 20 Zeilen formulieren:
+
+Was ist die Problemstellung? 
+Was wird in der Stud. Arbeit thematisiert? 
+Welche Methoden verwendet man zur Lösung? 
+Was wird als Ergebnis gezeigt?
+
+Zum Beispiel:
+Die Auslegung von Vorschubachsen mit Kugelgewindetrieb erfolgt im heutigen Stand der Technik durch erfahrene Spezialisten, die die wichtigsten 
+Anforderungen an einen KGT anhand komplexer Formeln von Hand berechnen. Eine Automatisierung dieser Auslegung stellt ein großes Defizit dar. 
+Das dynamische Verhalten eines KGT, eine der wichtigsten Anforderungen, findet wenig Beachtung. Aufgrund des Zusammenhangs zwischen des dynamischen Verhaltens 
+und der Lage der Eigenfrequenzen, werden im Rahmen dieser Arbeit Modalanalysen von Vorschubachsen mit Kugelgewindetrieb vorgenommen. 
+Zudem werden weitere Anforderungen automatisiert berechnet. Dazu gehören der Preis, die Lebensdauer und die erreichbare Vorschubgeschwindigkeit. 
+Um einen Vergleich von unterschiedlichen Ausführungen zu erhalten, werden vollparametrische FE-Modelle verwendet. Durch das Variieren einzelner Parameter 
+wird eine Reihe von Vorschubachsen simuliert. Nach der Simulation einzelner Modelle werden die Ergebnisse der Anforderungsberechnungen zusammen mit dem 
+Simulationsergebnis in einem Kostenfunktional verrechnet. Hier hat der Benutzer die Möglichkeit, die Anforderungen unterschiedlich zu gewichten. 
+Durch das Vergleichen der im Kostenfunktional berechneten Kostenwerte, kann die für die Gewichtung günstigste Konfiguration einer Vorschubachse ermittelt werden. 
+Auf diese Weise wird aus kundenindividuellen Vorgaben automatisiert eine Konfiguration der Vorschubachse gewählt, die die Wünsche des Kunden bestmöglich erfüllt. 
+
+ (Kurzzusammenfassung von: Schippert, Louis Felix: Automatisierte Dimensionierung von Vorschubachsen mit Kugelgewindetrieb durch Einsatz vollparametrischer FE-Modelle; Bachelorarbeit 2017)
